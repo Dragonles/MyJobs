@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android wap\MyJobs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="F:\android wap\MyJobs\app\build\intermediates\pre-dexed\debug\classes-bca4444b2a1749b0fc29a804001d81ea9552be2c.jar" />
+    </item>
+    <item
+        jar="F:\android wap\MyJobs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="F:\android wap\MyJobs\app\build\intermediates\pre-dexed\debug\classes-7ea304c74947f7da1025bcca8b8447f90ce96d04.jar" />
+    </item>
+    <item
+        jar="E:\软件\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="F:\android wap\MyJobs\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-0ed64bca01e4ca13e8c55e60210a7b5317afd890.jar" />
+    </item>
+    <item
+        jar="F:\android wap\MyJobs\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="F:\android wap\MyJobs\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-570093bf57bcac3b9b38b6827cf9563f4fce4247.jar" />
+    </item>
+
+</items>

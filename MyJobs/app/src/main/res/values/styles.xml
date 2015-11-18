@@ -5,4 +5,21 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="MyThemeNoTitle" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- colorPrimary:  指aActivityBar的背景色  -->
+        <!-- colorPrimaryDark:  指顶部的状态栏，改变背景色       5.0以上的版本可以修改状态栏的颜色 -->
+        <!-- colorAccent:  指输入框的颜色  5.0版本的可以改变底部（ 菜单、主页、返回键）的颜色 -->
+        <!-- 若是API 21（5.0） 以上 ，则不用再写android: -->
+        <item name="colorPrimary">@color/blue1</item>
+        <item name="colorPrimaryDark">@color/blue2</item>
+        <!--<item name="colorAccent">@color/green</item>-->
+        <!--<item name="android:windowBackground">@color/green</item>-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="MyFullscreen" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
 </resources>

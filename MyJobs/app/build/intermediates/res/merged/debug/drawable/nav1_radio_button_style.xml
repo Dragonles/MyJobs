@@ -4,4 +4,4 @@
         android:drawable="@drawable/home_selected" />
     <item android:state_checked="false"
         android:drawable="@drawable/home"/>
-</selector><!-- From: file:/F:/android%20wap/MyJobs/app/src/main/res/drawable/nav1_radio_button_style.xml -->
+</selector><!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/src/main/res/drawable/nav1_radio_button_style.xml -->

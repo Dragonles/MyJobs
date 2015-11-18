@@ -2,9 +2,35 @@
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
     android:layout_height="match_parent" tools:context="com.job.fragment.FabuFragment">
 
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:background="#28BBBD">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="选择发布类型"
+            android:textSize="24sp"
+            android:textColor="#FFFFFF"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="8dp"
+            android:text="我的发布"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+
     <!-- TODO: Update blank fragment layout -->
     <TextView android:layout_width="match_parent" android:layout_height="match_parent"
         android:text="2" />
 
+
 </FrameLayout>
-<!-- From: file:/F:/android%20wap/MyJobs/app/src/main/res/layout/fragment_fabu.xml -->
+<!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/src/main/res/layout/fragment_fabu.xml -->

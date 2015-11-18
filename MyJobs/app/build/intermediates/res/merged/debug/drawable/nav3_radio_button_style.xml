@@ -4,4 +4,4 @@
         android:drawable="@drawable/nearby_selected"/>
     <item android:state_checked="false"
         android:drawable="@drawable/nearby"/>
-</selector><!-- From: file:/F:/android%20wap/MyJobs/app/src/main/res/drawable/nav3_radio_button_style.xml -->
+</selector><!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/src/main/res/drawable/nav3_radio_button_style.xml -->

@@ -218,11 +218,18 @@
     <!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
-    <string name="app_name">MyJobs</string>
+    <string name="app_name">兼职吧</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_world">Hello world!</string>
     <!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_person">PersonActivity</string>
+    <string name="title_activity_shan">shanActivity</string>
+    <!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
@@ -1169,6 +1176,26 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
+    <!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="MyFullscreen" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="MyThemeNoTitle" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- colorPrimary:  指aActivityBar的背景色  -->
+        <!-- colorPrimaryDark:  指顶部的状态栏，改变背景色       5.0以上的版本可以修改状态栏的颜色 -->
+        <!-- colorAccent:  指输入框的颜色  5.0版本的可以改变底部（ 菜单、主页、返回键）的颜色 -->
+        <!-- 若是API 21（5.0） 以上 ，则不用再写android: -->
+        <item name="colorPrimary">@color/blue1</item>
+        <item name="colorPrimaryDark">@color/blue2</item>
+        <!--<item name="colorAccent">@color/green</item>-->
+        <!--<item name="android:windowBackground">@color/green</item>-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- From: file:/D:/Users/zyh/MyJobs/MyJobs/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 

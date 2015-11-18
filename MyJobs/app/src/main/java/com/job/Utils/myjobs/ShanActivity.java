@@ -26,8 +26,9 @@ public class ShanActivity extends AppCompatActivity {
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
-                    Intent intent =new Intent(ShanActivity.this,MainActivity.class);
-                    ShanActivity.this.startActivity(intent);
+                    
+//                    Intent intent =new Intent(ShanActivity.this,MainActivity.class);
+//                    ShanActivity.this.startActivity(intent);
                     ShanActivity.this.finish();
                     break;
                 }
